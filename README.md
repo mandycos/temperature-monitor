@@ -1,2 +1,2 @@
 # temperature-monitor
-hello world!
+hello world
